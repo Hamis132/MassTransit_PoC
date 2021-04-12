@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransitRabbitMQ_PoC_Consumer", "MassTransitRabbitMQ_PoC_Consumer\MassTransitRabbitMQ_PoC_Consumer.csproj", "{431E8C94-8A49-4478-8611-F87736023252}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransitRabbitMQ_PoC_Publisher", "MassTransitRabbitMQ_PoC_Publisher\MassTransitRabbitMQ_PoC_Publisher.csproj", "{BE7AB0B7-C5E5-4C3A-8306-43E59E7DA064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransitRabbitMQ.Transactions", "MassTransitRabbitMQ.Transactions\MassTransitRabbitMQ.Transactions.csproj", "{B7596D22-7AD0-4D16-A237-C1A449B022E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{431E8C94-8A49-4478-8611-F87736023252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{431E8C94-8A49-4478-8611-F87736023252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{431E8C94-8A49-4478-8611-F87736023252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{431E8C94-8A49-4478-8611-F87736023252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE7AB0B7-C5E5-4C3A-8306-43E59E7DA064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE7AB0B7-C5E5-4C3A-8306-43E59E7DA064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE7AB0B7-C5E5-4C3A-8306-43E59E7DA064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE7AB0B7-C5E5-4C3A-8306-43E59E7DA064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7596D22-7AD0-4D16-A237-C1A449B022E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7596D22-7AD0-4D16-A237-C1A449B022E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7596D22-7AD0-4D16-A237-C1A449B022E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7596D22-7AD0-4D16-A237-C1A449B022E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
